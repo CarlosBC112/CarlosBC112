@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects to improve my portfolio
 - 📫 How to reach me @dexterthefirst112@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like learning about code
 
 <!---
 CarlosBC112/CarlosBC112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
